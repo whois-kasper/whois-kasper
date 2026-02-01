@@ -1,7 +1,6 @@
 # I'm not Kasper
 **But in case that's who I am,**
-Kasper is a utilitarian dev who seems to learn and forget languages based on whatever he's working on. You'll usually find him working on private repos.
-Hmm, maybe that's why his commit history has no green in it... just like his wallet.
+Kasper is a utilitarian dev who seems to learn and forget languages based on whatever he's tasked with working on.
 
 ## Projects he's worked on
 - Head of Electrical @ [MACH](https://machtmu.com/)
