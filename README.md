@@ -10,6 +10,3 @@ Kasper is a utilitarian dev who seems to learn and forget languages based on wha
 	- Full-stack web-app deployed with Next.js + Flask.
 - Front-end dev @ [TMU CanSat](https://tmu-cansat.github.io/)
 	- Designing the ground station for their rocket-delivered payload.
-
-
-He's also a major Windows + Jetbrains shill, ~~keep Linux in the bedroom~~ ;)
