@@ -3,7 +3,7 @@
 Kasper is a utilitarian dev who seems to learn and forget languages based on whatever he's tasked with working on.
 
 ## Projects he's worked on
-- Head of Electrical @ [MACH](https://machtmu.com/)
+- Systems & Integration Lead @ [MACH](https://machtmu.com/)
 	- Developing engine test and mission control software using LabView.
 	- Programming embedded flight controllers for rockets using C, C++, and MicroPython.
 - Lead Developer for the [MARS Ground Station](https://github.com/marstmu/groundstationV2)
